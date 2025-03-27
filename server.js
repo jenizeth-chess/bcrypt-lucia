@@ -51,5 +51,5 @@ const bcrypt = require("bcrypt");
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-    console.log("Listening on port:", PORT)
+    console.log("app luci ♟️ Listening on port:", PORT)
 });
